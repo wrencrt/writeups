@@ -41,29 +41,29 @@ Budget options all suck, get the Hakko FR-301.
 - $80 - Tekpower TP3005T
 ### Consumables/Quality of life products
 #### Flux
-- $35 - Amtech VS 213
-- $13 - Amtech NC 559 
 - $8 - Kester 959T
+- $13 - Amtech NC 559 
 - $15 - Kester 951
 - $15 - MG 8341
 - $15 - MG 835 (not no-clean)
+- $35 - Amtech VS 213
 #### Desoldering Wick
 - $6-12 - NTE SW02-XX - the XX is a 2 digit number for size.
 #### Heat Shrink
 - $depends - Techflex Shrinkflex (comes in rolls, has specialty types like fabric)
 - $10 - NTE HS-ASST-9
 #### Silicone Mat/Work Surface
-- $40 - Weller WLACCWSM1-02 - Large
 - $25 - Weller WLACCWSM2-02 - Medium
+- $40 - Weller WLACCWSM1-02 - Large
 - $80 - GamersNexus Modmat
 #### Helping Hands
-- $50 - Weller WLACCHHM-02
 - $10 - Eclipse ProsKit 900-015
+- $50 - Weller WLACCHHM-02
 #### Panavise/PCB Clamp
+- $12 - Eclipse ProsKit SN-390 Adjustable Soldering Clamp Holder
 - $30 - PanaVise Model 201 PV Jr.
 - $50 - PanaVise Model 301 Standard PanaVise
 - $80 - PanaVise Model 324 Electronics Work Center (has sponge and soldering iron holder!)
-- $12 - Eclipse ProsKit SN-390 Adjustable Soldering Clamp Holder
 #### Electric Duster
 - $13 - Eclipse MS-C002 Mini Vacuum & Blowing Cleaner
 - $50 - Compucleaner Xpert
