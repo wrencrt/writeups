@@ -12,6 +12,7 @@
 - $250 - Hakko FX-951 - One of the best stations money can buy.
 - $500+ - Hakko FM-203 - Above but better, 2 ports.
 #### Solder
+- $30 - Weller WSW SCN M1 3.5oz (lead free)
 - $50 - Kester 63/37 1lb roll
 - $depends - Kester Pocket Pak/Kwik Draw 63/37
 #### Tip Cleaning
@@ -31,7 +32,7 @@ Budget options all suck, get the Hakko FR-301.
 ### Test Equipment
 #### Multimeters
 - Honestly, there's too many in this category to mention. 
-- Anything under $50, just get a cheap Extech.
+- Anything under $50, just get a cheap Extech or AstroAI.
 - Anything over that, [EEVBlog's rundown is the best resource.](https://www.youtube.com/watch?v=n3WGaiYF2sk)
 #### Oscilloscope
 - Under $150, get a used one.
@@ -53,6 +54,7 @@ Budget options all suck, get the Hakko FR-301.
 - $depends - Techflex Shrinkflex (comes in rolls, has specialty types like fabric)
 - $10 - NTE HS-ASST-9
 #### Silicone Mat/Work Surface
+- $14-20 - "Soldering mat" that looks like [this](https://i.imgur.com/eukumbv.png)
 - $25 - Weller WLACCWSM2-02 - Medium
 - $40 - Weller WLACCWSM1-02 - Large
 - $80 - GamersNexus Modmat
