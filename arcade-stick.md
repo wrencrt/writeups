@@ -34,7 +34,7 @@ After placing all the holes and making sure there's enough clearance for the fla
 ### Manufacturing the Top Panel
 For making the top panel, I highly recommend [SendCutSend](https://www.Sendcutsend.com), as they can do basically anything you need to do to finish the stick up, including inserting flush posts for the lever, countersinking, and even powder coating! Open your exported DXF file in SendCutSend’s instant quote page. For bare panels (no Plexiglass overlay) I recommend 1.2 or 1.5mm 305 Stainless Steel, or (for panels you are going to paint,) I recommend A36 Mild Steel, with the same thickness. On the next page, select “Hardware Insertion” and open the catalog. You want the longest m5 x 0.8 stud they offer, which is normally near the bottom of the list. If making a plexiglass overlay, I recommend 3.0mm (thinnest available) Clear Acrylic. My cart with an acrylic overlay and a top panel is included in figure 4.
 
-![Image of a finished arcade stick plexiglass panel.](/img/fig4.png) <center><sub>Figure 4.</sub></center>
+![Image of a order cart on SendCutSend.com](/img/fig4.png) <center><sub>Figure 4.</sub></center>
 
 ### Finishing Enclosure
 Usually, you will also need to drill a Neutrik D-Sized hole in the side of your enclosure to allow for USB passthrough. This is a standard even outside of the fighting game community, and allows for easily connecting a USB device through to your enclosure. This can be done with the layout in figure 5, which is in mm. I recommend a carbide hole saw, and not a step drill bit for this. You may also wish to add auxiliary buttons, which can be done with the same 24mm hole saw.
