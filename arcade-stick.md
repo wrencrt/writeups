@@ -16,6 +16,10 @@
 
 ## Instructions
 
+### Video tutorial
+
+The [video tutorial](https://www.youtube.com/watch?v=k1Qa1W2EB0Y) is intended as as a supplemental to this guide, not as a complete replacement. 
+
 ### Size
 First, you will need to decide on what size you would like your arcade stick to be. For small all-button style sticks, I recommend a panel size of around 10in x 6in. For levered sticks, I recommend a panel size of around 12in x 8in. For either of these, I recommend a depth of 2 or 3 inches, depending on preference. The Hammond 1441 series is also available with wood sides (walnut), which may be an attractive option. 
 
